@@ -2,12 +2,13 @@
 A Responsive Customer Form made utilizing <strong>HTML, CSS</strong> with a beautiful User Interface.
 
 ## Functionality:
-Save data in local storage upon form submission.
-Display saved data in read-only format.
-Enable editing upon clicking the name.
-Save and display the latest edited data.
+<li>Save data in local storage upon form submission.</li>
+<li>Display saved data in read-only format.</li>
+<li>Enable editing upon clicking the name.</li>
+<li>Save and display the latest edited data.</li>
 
-For live demo: <a href="https://rampentapati1111.github.io/Registration-Form/" target="_blank">Don't Click here🙈</a>
+## Live Demo
+<a href="https://rampentapati1111.github.io/Registration-Form/" target="_blank">Don't Click here🙈</a>
 
 ## To run on your PC:
 Download the code file to your PC.

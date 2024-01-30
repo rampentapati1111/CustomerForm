@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Customer Information Form</title>
+    <link rel="stylesheet" href="/style.css">
+    
+  </head>
+  <body>
+    <!-- Customer Information Form -->
+    <form id="customerForm">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" placeholder="Enter Name" required />
+
+      </br>
+
+      <label for="employeeId">Employee ID:</label>
+      <input type="number" id="employeeId" name="employeeId" placeholder="Enter Employee ID" required />
+
+      </br>
+
+      <label for="city">City:</label>
+      <select id="city" name="city" required>
+        <option value="" disabled selected>Select City</option>
+        <option value="New York">New York</option>
+        <option value="London">London</option>
+        <option value="Tokyo">Tokyo</option>
+      </select>
+
+      </br>
+
+      <label for="gender">Gender:</label>
+      <input type="radio" id="male" name="gender" value="Male" required />
+      <label for="male">Male</label>
+      <input type="radio" id="female" name="gender" value="Female" required />
+      <label for="female">Female</label>
+
+      </br>
+      <button type="button" onclick="saveData()">Save</button>
+    </form>
+
+    <!-- Display Area -->
+    <div id="displayArea" style="margin-top: 20px"></div>
+    
+    <script src="/main.js"></script>
+
+  </body>
+</html>

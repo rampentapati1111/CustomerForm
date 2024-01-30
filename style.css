@@ -1,0 +1,41 @@
+      *{
+        box-sizing: border-box;
+      }
+      body {
+          font-family: Arial, sans-serif;
+          margin: 20px;
+      }
+
+      label {
+          display: inline-block;
+          margin-bottom: 5px;
+      }
+
+      input[type="text"],
+      input[type="number"],
+      select {
+          width: 25%;
+          padding: 8px;
+          margin-bottom: 15px;
+      }
+
+      input[type="checkbox"] {
+          margin-right: 5px;
+      }
+
+      button {
+          padding: 10px;
+          background-color: #4caf50;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+      }
+
+      button:hover {
+          background-color: #169eec;
+      }
+
+      #displayArea{
+        font-weight: bold;
+      }

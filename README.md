@@ -8,7 +8,7 @@ A Responsive Customer Form made utilizing <strong>HTML, CSS</strong> with a beau
 <li>Save and display the latest edited data.</li>
 
 ## Live Demo
-<a href="[https://rampentapati1111.github.io/Registration-Form/](https://rampentapati1111.github.io/CustomerForm/)" target="_blank">Don't Click here🙈</a>
+<a href="https://rampentapati1111.github.io/CustomerForm/" target="_blank">Don't Click here🙈</a>
 
 ## To run on your PC:
 Download the code file to your PC.

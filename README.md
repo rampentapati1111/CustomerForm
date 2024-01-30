@@ -1,5 +1,5 @@
 # CustomerForm
-A Responsive Customer Form made utilizing <strong>HTML, CSS</strong> with a beautiful User Interface.
+A Responsive Customer Form made utilizing <strong>HTML, CSS, JavaScript</strong> with a beautiful User Interface. Incorporated the DOm techniques and used local storage for storing and displaying the recent data.
 
 ## Functionality:
 <li>Save data in local storage upon form submission.</li>
